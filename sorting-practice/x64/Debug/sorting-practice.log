@@ -1,2 +1,2 @@
-﻿  sorting-practice.cpp
-  sorting-practice.vcxproj -> C:\Users\makay\OneDrive\Makayla Anderson-Tucker\Software Engineer\Portfolio\sorting-algo-practice\sorting-practice\x64\Debug\sorting-practice.exe
+﻿  main.cpp
+C:\Users\makay\OneDrive\Makayla Anderson-Tucker\Software Engineer\Portfolio\sorting-algo-practice\sorting-practice\main.cpp(24,17): error C3861: 'locOfSmallest': identifier not found
